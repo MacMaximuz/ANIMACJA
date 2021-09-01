@@ -48,7 +48,7 @@ class MyJPanel extends JPanel implements ActionListener{
     int x3_przemieszczenie=1;
     int y3_przemieszczenie=1;
     int okno_wysokosc=1000;
-    int predkosc1=1/2;
+    int predkosc1=1;
     int min=100;
     int max=400;
     int random = (int)Math.floor(Math.random()*(max-min+1)+min);
